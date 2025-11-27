@@ -1,6 +1,7 @@
 # jaychatbot_2nd
 👿 AI assistant? No. I'm your childhood friend who just happens to live in GPU (in Korean)
 huggingface: https://huggingface.co/spaces/Jay1121/immitate_chatbot
+site: http://www.duboobanmo.site
 
 
 The Ultimate Sassy Korean Best Friend AI
