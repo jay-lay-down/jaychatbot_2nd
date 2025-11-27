@@ -1,0 +1,29 @@
+# .gitignore 파일 내용
+
+# 1. 데이터 파일 숨기기 (절대 공개 X)
+*.xlsx
+*.csv
+*.jsonl
+*.txt
+/data/
+
+# 2. 모델 가중치 파일 숨기기 (용량 큼)
+*.safetensors
+*.bin
+*.pt
+*.pth
+/kakao_lora_qwen_1.5b_*/  # 학습된 폴더 통째로 무시
+
+# 3. 비밀 키 및 환경 설정 숨기기
+.env
+secrets.json
+wandb/
+
+# 4. 파이썬/주피터노트북 찌꺼기 숨기기
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# 5. Colab/Drive 마운트 흔적
+/content/
+/drive/
