@@ -133,3 +133,7 @@ Apache License
 
 - [Unsloth](https://github.com/unslothai/unsloth) for efficient fine-tuning
 - [Qwen](https://github.com/QwenLM/Qwen) for the base model
+
+
+
+Co-authored-by: The Octocat <octocat@github.com>
